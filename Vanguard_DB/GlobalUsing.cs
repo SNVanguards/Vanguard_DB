@@ -1,0 +1,23 @@
+﻿global using System;
+global using Autofac;
+global using SqlSugar;
+global using AutoMapper;
+global using System.Data;
+global using System.Linq;
+global using Vanguard_DB.DI;
+global using System.Threading;
+global using System.Reflection;
+global using Vanguard_DB.Models;
+global using System.Data.Common;
+global using Vanguard_DB.Factory;
+global using Vanguard_DB.Providers;
+global using System.Threading.Tasks;
+global using Vanguard_DB.Repositorys;
+global using System.Linq.Expressions;
+global using Microsoft.Data.SqlClient;
+global using System.Collections.Generic;
+global using Microsoft.AspNetCore.Builder;
+global using System.Collections.Concurrent;
+global using Microsoft.Extensions.Configuration;
+global using Autofac.Extensions.DependencyInjection;
+
